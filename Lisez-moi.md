@@ -29,5 +29,18 @@ Mon choix de programmation s'est orienté sur l'utilisation de 4 boucles for con
 
 ### Exercice 2: Première version d'un interpréteur de script
 
+Cette seconde partie a portée sur l'analyse d'un script par interpréteur de commande. Ce script était de la forme:
 
-
+ <center>(script (s1 s2 s3 s4))</center>
+ 
+ Cette S-expression est saisie en tant qu'objet ExprList, en somme un tableau. Chaque terme de ce tableau est accessible via la methode get(index) puis est casté en string (pour s1 et s2). 
+ 
+ Les termes suivants sont les arguments de s2 et seront castés soit en string soit en entier selon la nature de la fonction s2.
+ 
+ L'exercice 2 revient donc principalement au découpage de la S-expression afin d'en extraire les données relatives aux changements graphiques.
+ 
+ La limite de ce problème tient au fait que le nombre de possibilités de script est limité par le nombre de type d'objets et de fonctions définis dans notre code.
+ 
+ ### Exercice 3: Introduction des commandes
+ 
+ 
