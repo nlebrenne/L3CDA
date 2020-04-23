@@ -2,4 +2,6 @@
 
 #### Auteur : Nicolas LE BRENNE
 
-Objectif: Développer un interpreteur de script agissant sur des éléments graphiques
+Objectif: Développer un interpreteur de script agissant sur des éléments graphiques.
+
+---------------------------------------------------------------------------------------------------------
