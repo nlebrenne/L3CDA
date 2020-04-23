@@ -8,18 +8,18 @@ Objectif: Développer un interpreteur de script agissant sur des éléments grap
 
 
 ## Exercice 1: Prise en main de la couche graphique
----------------------------------------------------
+
 
 
 La prise en main de la couche graphique a permis de comprendre les bases du fonctionnement des objets GSpace et GRect.
 Cette partie préparatoire a notamment donné lieu à la découverte des méthodes suivantes:
 
-<center>
+
 * Définition de la taille de l'objet robi: setDimension
 * Position de l'objet robi via les coordonnées de son coin supérieur gauche: setPosition
 * Définition de la couleur des objets robi et space: setColor
 * La supension temporaire des actions objets via la méthode sleep
-</center>
+
 
 D'autres méthodes seront étudiées dans les exercices suivants.
 
