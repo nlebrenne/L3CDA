@@ -7,7 +7,7 @@ Objectif: Développer un interpreteur de script agissant sur des éléments grap
 ---------------------------------------------------------------------------------------------------------
 
 
-##Exercice 1: Prise en main de la couche graphique
+## Exercice 1: Prise en main de la couche graphique
 --------------------------------------------------
 
 
