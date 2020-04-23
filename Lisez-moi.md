@@ -4,8 +4,6 @@
 
 Objectif: Développer un interpreteur de script agissant sur des éléments graphiques.
 
----------------------------------------------------------------------------------------------------------
-
 
 ## Exercice 1: Prise en main de la couche graphique
 
