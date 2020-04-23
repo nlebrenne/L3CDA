@@ -25,7 +25,7 @@ Le problème a été résolu en utilisant les méthodes getWidth() et getHeigth(
 
 Mon choix de programmation s'est orienté sur l'utilisation de 4 boucles for consécutives. Il aurait cependant pu être judicieux de les imbriquer. En revanche, il aurait fallu prendre garde à ce que l'objet robi ne rebrousse pas chemin lors des ajustements de fenêtre.
 
-![Résultat](https://gyazo.com/89d9f7c214a5cc893d0fe55f08fc6c39)
+![Résultat](https://i.gyazo.com/20dcc22fdf1bfb37266da7b5a923aa21.gif)
 
 ### Exercice 2: Première version d'un interpréteur de script
 
